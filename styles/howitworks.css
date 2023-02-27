@@ -1,0 +1,20 @@
+.howitworks {
+  height: 729px !important;
+  margin-top: 2110px;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  color: #142640 !important;
+}
+
+.t-card {
+  height: 390px;
+}
+.i-card {
+  height: 390px;
+}
+
+.howitworks-head-m {
+  display: none;
+}

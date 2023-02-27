@@ -1,0 +1,24 @@
+.whatsinclude {
+  height: 729px !important;
+  margin-top: 80px;
+  margin-left: 222px;
+  /* align-items: center !important;
+  justify-content: center !important; */
+  color: #142640 !important;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  /* margin-left: 195px;
+  margin-right: 195px; */
+}
+.whatsinclude-head-mob {
+  display: none;
+}
+
+.whatinclude-grid-mob{
+  display: none;
+}
+.howitworks-grid-mob{
+  display: none;
+}
